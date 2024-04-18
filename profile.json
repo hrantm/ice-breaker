@@ -1,0 +1,341 @@
+{
+    "public_identifier": "hrant-mirijanyan",
+    "profile_pic_url": null,
+    "background_cover_image_url": null,
+    "first_name": "Hrant",
+    "last_name": "Mirijanyan",
+    "full_name": "Hrant Mirijanyan",
+    "follower_count": 1576,
+    "occupation": "Software Engineering Consultant at Threadpool",
+    "headline": "Senior Software Engineer at ThreadPool",
+    "summary": "http://www.hrantmirijanyan.com/",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "San Francisco Bay Area",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Threadpool",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/100132614/",
+            "title": "Software Engineering Consultant",
+            "description": "Route Optimization (Python, Flask LogisticsOS, Postgres)\n- Built the backend for the route optimization product. Optimized routes using LogisticsOs and dispatched batches of deliveries\nImproved performance by an order of magnitude enabling migration to web product\nNotification Center(Knock, Kafka, Python, Flask, Postgres)\n- Built a new notification center using Knock and Kafka. Consumer would read Kafka topic and push notifications using Knock\nOrderManagement Integration(Python, Lambda, DynamoDB, Flask, Postgres)\n- Built integration with Order Management platform. Events were read from customer tables periodically and pushed to the the backend where orders would be processed",
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQETew4y5Ihuwg/company-logo_400_400/0/1706471453102/threadpoolevn_logo?e=1721260800&v=beta&t=327ueTg45F2iluAhk24KhAIZtz1HQI3JeaglT-VOx7w"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "SmartGateVC",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/smartgate.vc",
+            "title": "Angel Investor at Hero House Angels",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEBJfsL9v12nQ/company-logo_400_400/0/1675351584484/smartgatevc_logo?e=1721260800&v=beta&t=Ucz5Wa2LgJVycqBAUcL3ynA9ZS9haiys3sujrStEY4s"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2023
+            },
+            "company": "D2iQ",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/d2iq",
+            "title": "Staff Software Engineer (Tech Lead)",
+            "description": "Workflow System (Kubernetes, Python, Cron)\n- Architected and implemented a cronjob system for running scheduled jobs using Kubernetes Cron\nGithub Action Migration(Kubernetes, Github Actions, Teamcity, Jenkins)\n- Built a new CI system based on top Github Actions running on top of self hosted runners. Scaling was handling by D2IQ kubernetes distribution\n- Moved tests and sunset previous CI systems\nMergebot(Python, Github Actions, JiraApi)\n- Rearchitected and built internal tool handling merge automation and Jira Integration",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/D4E0BAQGDmEPuFn52AA/company-logo_400_400/0/1688583955536/d2iq_logo?e=1721260800&v=beta&t=cg-OHa3hTmqHbO873P-qWTmujNbo0y0w1HHP39kO1hQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2021
+            },
+            "company": "REX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rex---real-estate-exchange",
+            "title": "Senior Software Engineer",
+            "description": "Bidding Agent(protobufs, python, terraform)\n- Built and scaled bidder to bid on ad opportunities coming from dsp\n- Responds to 10k requests/sec\n- Maximum 10ms response time\n\nNotification Engine(docker, kubernetes, cron, sqs, ses, twilio)\n- Framework for sending notifications at high load\n- Can process any kind of notifications ie text, email, phone",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEG8lhqe04_IA/company-logo_400_400/0/1630570087992/rex___real_estate_exchange_logo?e=1721260800&v=beta&t=5dc1CyWEEmbV2Ed1hcj6C-GnivpHWJx3TbFz25J-iQw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "REX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/rex---real-estate-exchange",
+            "title": "Software Engineer",
+            "description": "Banner Ad Generation(Python, flask, docker, kubernetes, redis)\n- Generate banner ads from html files in under 50ms\n\nOffline Conversion Framework(Python, kinesis, sqs, docker, kubernetes, redis)\n- Modify bids of ads on different platforms based on offline conversions\n\nPhotoshoot Scheduling Service(python, flask, kinesis, docker, kubernetes)\n- Extended scheduling service for scheduling photoshoots\n\nTexting App(JS, Python, flask, docker, kubernetes)\n- Allows users to text a number on a physical sign and get the directed to the listing detail page of the home they are interested in based on location data",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEG8lhqe04_IA/company-logo_400_400/0/1630570087992/rex___real_estate_exchange_logo?e=1721260800&v=beta&t=5dc1CyWEEmbV2Ed1hcj6C-GnivpHWJx3TbFz25J-iQw"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Fingerprint",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fingerprint",
+            "title": "Software Engineer",
+            "description": "Apps Portal (Ruby on Rails, React/Redux, Postgres, Websockets)\n\n - Built an Apps Manager to allow users to edit app metadata as well as delete apps from groups. Added locking mechanism to prevent race conditions from multiple users\n - Built Publisher allowing authorized users to publish catalogs through a web interface. Pushed logs from asynchronous publishing job to users through websockets\n - Refactored parts of Catalog portion of Apps portal. Created and implemented database schema, api as well as React components allowing Fingerprint content team to create, edit and maintain content catalogs for Fingerprint partners\n - Refactored Apps portion of portal to modern frontend architecture. Migrated from\nstatic pages to dynamic react application\n\nWebAPI (Java, Spring Boot, Jersey, MongoDB, Python)\n\n- Built backend for QA override tool allowing QA team to manage stripe subscriptions\n- Built endpoints to update client information dynamically, push client metadata to Stripe Dashboard, provide payment gateway information, etc.\n- Implemented python script utilizing concurrent threads to generate coupons using the stripe api. Sped up previous script by 100x\n\nMetrics Server (Ruby, Sinatra, Sidekiq, Postgres, MongoDB, Cron Jobs)\n\n- Built a scheduled job system for gathering data from a number of APIs such as Stripe, Brightcove, Google, etc., chunked the results and pushed to Mixpanel\n- In order to deal with more complicated queries from Stripe, provided raw SQL and a webhook to Stripe Sigma and received query results in the form of CSV files",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQFGrKaMBxkDbg/company-logo_400_400/0/1630607449727/fingerprint_logo?e=1721260800&v=beta&t=UjzH8w1jz4xRaJOshEC96NSJwL0KhwARkIh4BO1x6nI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2018
+            },
+            "company": "TeachFX",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/teachfx",
+            "title": "Software Engineer",
+            "description": "- Built endpoints to handle scheduling as well as perform analysis on data returned from our Machine Learning server using Node\n- Built audio streaming feature on the mobile application allowing users to play back recordings and visualize analyzed data with React Native\n- Migrated and redesigned backend from EC2 and MongoDB to Google Cloud Functions and Firebase in order to decouple the application and improve scalability",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGKN53yluGCsg/company-logo_400_400/0/1670439069439/teachfx_logo?e=1721260800&v=beta&t=tcXmd8CIeCdID4KjTESgrOrbHbeGTe2H76yEwYk2wFI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2016
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+            "title": "Product Manager (Consulting)- Google Pixel Retail Demo Application",
+            "description": "- Served as point of contact between engineering team and Google marketing\n- Delivered fully functional, bug-free application to thousands of stores in 7 different countries\n- Implemented Scrum principles with short 2-week sprints to maximize deliverables and quickly respond to ad hoc requests\n",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1721260800&v=beta&t=tK62cHy4uDkoLE6m3dOtWjFB4ZCsDM161WDyrsAIOsc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2016
+            },
+            "company": "Graph, Inc.",
+            "company_linkedin_profile_url": null,
+            "title": "Business Development Manager",
+            "description": "- Business strategy for company and existing projects in order to acquire clients and increase brand recognition\n- Introduced and implemented new technology into the company, such as marketing automation, and integrated with our CRM in order to improve sales and marketing processes\n- Built proposal for 6 different companies and created our case study for Black Friday Weekend in order to further market our brand as well as collect analytics\n- Communication with current and potential clients for customer acquisition and retention\n",
+            "location": "San Francisco",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "company": "Palms Asset Management",
+            "company_linkedin_profile_url": null,
+            "title": "Business Development Intern",
+            "description": "- Traffic generation\n- Onsite SEO and link-building: Able to get website on first page of organic search\n- Researched companies to partner with in order to cut costs for our business\n- Researched different options for assets in order to increase long-term revenue\n",
+            "location": "San Jose",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "DV8 Taipei",
+            "company_linkedin_profile_url": null,
+            "title": "Marketing Project Manager",
+            "description": "- Business development and marketing strategy\n- Ran PPC campaign using Google Adwords and Analytics\n- Increased weekly clicks by 30.2%  \n- Decreased bounce rate by 17.75%\n",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "company": "APPAREL FOR HUNGER",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/56636108/",
+            "title": "Vice President",
+            "description": "Responsible for non-profit\u2019s day-to-day operations:\nRecruited high school students in need of volunteering hours.\nOrganized and managed the collection process of unwanted clothing. \nMaximized the impact of the generated money by analyzing the different food banks in our area, resulting in the feeding of around 5000 people.",
+            "location": null,
+            "logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "field_of_study": "International Economics",
+            "degree_name": "Political Economy",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/2517/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_400_400/0/1639585477530/uc_berkeley_logo?e=1721260800&v=beta&t=qvDwXUvm-e6zel43_Mjp7QiGPXznzInhZH3rCT1X6GE",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "Armenian",
+        "English"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Tldr",
+            "description": "Mobile news aggregation application \n\n- Utilized the  News API to aggregate current news articles and implemented the SMMRY API to compile stories by 85-90%\n- Integrated Text To Speech to allow users to listen to article summaries as they browse their feed\n- Implemented React Native/Redux to design a reusable frontend architecture and built intuitive mobile views\n\nThere is a lot of news out there. We created a mobile application that aggregates news articles from trusted news sources and summarizes them down to the most important parts. Additionally, in order to allow users to consume news in the most convenient ways possible, we added Speech To Text functionality so that news could be heard as well.\n",
+            "url": "https://hrantm.github.io/"
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2026
+            },
+            "name": "Certified Kubernetes Administrator",
+            "license_number": "LF-nndi1i54tg",
+            "display_source": "ti-user-certificates.s3.amazonaws.com",
+            "authority": "The Linux Foundation",
+            "url": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f07175a6-c835-4548-a474-265e895174ba-hrant-mirijanyan-63ac4e58-f6dc-4dc7-b890-060ace036751-certificate.pdf"
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "Java Programmer I",
+            "license_number": null,
+            "display_source": null,
+            "authority": "Oracle",
+            "url": null
+        }
+    ],
+    "connections": 1567,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/marcelo-autran?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHkNC8B09a0vprMfVr0fIMcCqRCW0pE4TI",
+            "name": "Marcelo Autran",
+            "summary": "Senior Software Engineer at Rippling",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mthaika?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABxJdC8B5fUV6omoWkS4f2clmPBEIPgmw4k",
+            "name": "Majeed Thaika",
+            "summary": "Senior Software Engineer at Nash",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/divya-vallur-39032a114?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAByGS5wBug0ERyXzPcK0Q7t-ErEkIFOr_i8",
+            "name": "Divya Vallur",
+            "summary": "Senior Devops Engineer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/lily-kuang-69937695?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABQqV1UBsQVnpKwjigK3ifnzbpEWxrBz1RU",
+            "name": "Lily Kuang",
+            "summary": "Senior Software Engineer at Preset",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/joseph-aurelio-fernandez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA6xKP8BAHFUabUqswfTDKG1k21yxf5C6xQ",
+            "name": "Joseph Fernandez",
+            "summary": "Software Engineer @ Pave | Full Stack Engineer",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4D07AQHOiOTeEkUO0g/group-logo_image-shrink_48x48/0/1631361566521?e=1714060800&v=beta&t=5BRr3c7bfAtMQRH817-TADBy-UOjcC5LnLFdMguFI8I",
+            "name": "Armenian Professionals",
+            "url": "https://www.linkedin.com/groups/54473"
+        }
+    ],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
